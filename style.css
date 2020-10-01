@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(161, 41, 172);
+    
+}
+
+.imgbox{
+    background-image: url('1download.jpeg');
+position: relative;
+height: 145px;
+width: 145px;
+top: 6px;
+}
+
+.whitebox{
+    display: inline-block;
+    height: 155px;
+    width: 155px;
+    margin: 13px;
+    background-color: #fff;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.hold{
+    border: 5px solid blue;
+    border-style: dotted;
+}
+.hide{
+    display: none;
+}
